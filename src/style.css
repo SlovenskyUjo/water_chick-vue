@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .plugin {
+    @apply block relative text-center top-5 mx-5 leading-snug;
+  }
+
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.35);
+  }
+
+  h1 {
+    font-family: 'Kode Mono', Tahoma, Verdana, sans-serif;;
+  }
+
+  h3 {
+    font-family: 'Rubik', Tahoma, Verdana, sans-serif;
+  }
+
+  p {
+    font-family: Tahoma, Verdana, sans-serif;
+  }
+
+  .bg {
+    background-image: url(../src/assets/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+}
