@@ -1,7 +1,7 @@
 
 <template>
   <main>
-    <article class="p-5 pb-[10rem] pt-9 sm:pt-[6rem]">
+    <article class="p-5 pb-[10rem] pt-[4rem] sm:pt-[6rem]">
         <section>
           <figure>
             <img src="../assets/reward(1).png" alt="" class="mx-auto rounded pt-10">

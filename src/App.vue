@@ -5,11 +5,12 @@
     <router-view />
   </nav>
 
+  <Footer />
 </template>
 
 <script setup>
 import Navbar from './components/Navbar.vue';
-import Discord from './components/Discord.vue';
+import Footer from './components/Footer.vue';
 
 </script>
 

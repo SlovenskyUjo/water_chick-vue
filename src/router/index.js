@@ -1,8 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import App from '../App.vue';
-
-import Home from '../views/Home.vue';
-import Plugins from '../views/Plugins.vue';
 
 const router = createRouter({
   history: createWebHistory(),
