@@ -3,7 +3,7 @@
     <article class="min-h-screen p-5 pb-[10rem] flex bg">
       <section class="text-center pt-[4rem] sm:pt-0 sm:flex items-center sm:mx-auto">
         <figure>
-          <img src="../assets/logo.png" alt="" class="sm:mx-auto sm:w-[750px] rounded pt-10">
+          <img src="../assets/logo.png" alt="" class="sm:mx-auto sm:w-[700px] rounded pt-10">
         </figure>
 
         <div class="flex items-center flex-col sm:gap-y-3">
